@@ -9,6 +9,6 @@ Result: Recommendation system of music titles according to selected genres or ti
 ## Content of the repository
 
 - Streamlit application
-- Python code for ImDb API request
+- Python code for ImDb API requests
 - Jupyter Notebook of the Machine Learning script
 - Jupyter Notebook of the datavisualisation script
